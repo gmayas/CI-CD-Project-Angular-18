@@ -9,15 +9,10 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'CI-CD-Project-Angular-18';
-  
+ title = 'CI-CD-Project-Angular-18';
+ 
   constructor() {
-    this.funtX();
+    console.log('Version 9 ...')
   }
-
-  funtX = () => {
-    console.log('Version 8 ...')
-  }
-
   
 }
