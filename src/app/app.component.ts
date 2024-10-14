@@ -12,7 +12,7 @@ export class AppComponent {
  title = 'CI-CD-Project-Angular-18';
  
   constructor() {
-    console.log('Version  11 ... ')
+    console.log('Version  12 ... ')
   }
   
 }
